@@ -67,12 +67,6 @@
                         <span class="menu-text">Ayarlar</span>
                     </a>
                 </li>
-                <li>
-                    <a href="<?php echo base_url("contact");?>">
-                        <i class="menu-icon zmdi zmdi-settings zmdi-hc-lg"></i>
-                        <span class="menu-text">İletişim</span>
-                    </a>
-                </li>
 
                 <li class="has-submenu">
                     <a href="javascript:void(0)" class="submenu-toggle">
@@ -95,7 +89,7 @@
                 </li>
 
                 <li>
-                    <a href="<?php echo base_url("product"); ?>">
+                    <a href="<?php echo base_url("product");?>">
                         <i class="menu-icon fa fa-cubes"></i>
                         <span class="menu-text">Ürünler</span>
                     </a>
